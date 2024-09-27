@@ -1,0 +1,222 @@
+.e-commerce-website {
+  width: 100%;
+  height: 300px;
+  background-size: cover;
+  position: fixed;
+
+}
+.navcontainer {
+  display: flex;
+  align-items: center;
+  margin-right: 15rem;
+}
+.navmenu {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 3rem;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.navmenu * {
+  display: inline;
+
+}
+.navbar {
+  display: flex;
+  align-items: center;
+}
+.navbar li{ 
+  margin-top: 1rem;
+  font-weight:bold ;
+}
+.navbar li:hover{
+  background-color: #332e2e;
+}
+.navbar li a {
+  text-decoration: none;
+}
+
+.logo {
+  color: white;
+  font-size: 2rem;
+  margin-top: 20px;
+  margin-left: 1rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 25px 0 black;
+  padding: 10px;
+  background-color: rgb(118, 156, 190);
+
+}
+
+.text-wrapper {
+  padding:  1rem;
+  color: white;
+}
+.shop-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  margin-top: 20rem;
+}
+.shop-now {
+  width: 13%;
+  border-radius: 20px;
+  padding: 20px;
+  font-weight: bold;
+}
+.shop-now:hover{
+  background-color: rgb(194, 134, 112);
+  color: white;
+}
+
+
+/* .e-commerce-website .overlap-group {
+  background-image: url(./bg-image-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1856px;
+  position: relative;
+} */
+
+
+
+/* .e-commerce-website .vector {
+  height: 62px;
+  left: 1485px;
+  position: absolute;
+  top: 12px;
+  width: 48px;
+} */
+
+/* .e-commerce-website .text-wrapper {
+  -webkit-text-stroke: 1px #000000;
+  color: #fbf7f7;
+  font-family: "Inter-Black", Helvetica;
+  font-size: 40px;
+  font-weight: 900;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+  width: 162px;
+} */
+
+/* .e-commerce-website .div {
+  -webkit-text-stroke: 1px #866b6b;
+  color: #fbf7f7;
+  font-family: "Inter-Black", Helvetica;
+  font-size: 40px;
+  font-weight: 900;
+  left: 260px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+  width: 130px;
+} */
+
+/* .e-commerce-website .img {
+  height: 51px;
+  left: 1652px;
+  position: absolute;
+  top: 11px;
+  width: 47px;
+} */
+
+/* .e-commerce-website .text-wrapper-2 {
+  -webkit-text-stroke: 1px #000000;
+  color: #fbf7f7;
+  font-family: "Inter-Black", Helvetica;
+  font-size: 40px;
+  font-weight: 900;
+  left: 475px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+  width: 141px;
+} */
+
+/* .e-commerce-website .text-wrapper-3 {
+  -webkit-text-stroke: 1px #000000;
+  color: #fbf7f7;
+  font-family: "Inter-Black", Helvetica;
+  font-size: 40px;
+  font-weight: 900;
+  left: 691px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 152px;
+} */
+
+/* .e-commerce-website .text-wrapper-4 {
+  -webkit-text-stroke: 1px #000000;
+  color: #fbf7f7;
+  font-family: "Inter-Black", Helvetica;
+  font-size: 40px;
+  font-weight: 900;
+  left: 918px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 234px;
+} */
+
+/* .e-commerce-website .vector-2 {
+  height: 53px;
+  left: 1784px;
+  position: absolute;
+  top: 9px;
+  width: 60px;
+} */
+
+/* .e-commerce-website .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Inter-Black", Helvetica;
+  font-size: 64px;
+  font-weight: 900;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 134px;
+  width: 731px;
+} */
+
+/* .e-commerce-website .div-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 18px;
+  display: flex;
+  gap: 10px;
+  height: 147px;
+  justify-content: center;
+  left: 1706px;
+  overflow: hidden;
+  padding: 20px 16px;
+  position: absolute;
+  top: 1123px;
+  width: 684px;
+} */
+/* 
+.e-commerce-website .text-wrapper-6 {
+  color: #222125;
+  font-family: "Inter-Black", Helvetica;
+  font-size: 64px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+} */
