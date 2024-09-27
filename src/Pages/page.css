@@ -1,0 +1,32 @@
+.Home-container {
+    height: 100vh;
+    background-image: url('/src/image/bg-image-2.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem 4rem;
+}
+.new-a { 
+    color: rgb(232, 243, 247);
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+
+}
+.description { 
+    color: rgb(232, 243, 247);
+    display: flex;
+    justify-content: center;
+    font-size: 1rem;
+    margin: 0 30px;
+
+}
+
+.productcard-container{
+    width: 50%;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 25px 0 black;
+    border: 1px solid;
+}  
